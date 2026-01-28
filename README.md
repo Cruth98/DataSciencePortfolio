@@ -25,20 +25,6 @@ and machine learning.
 
 --- 
 
-### Power BI – Fixed Asset Listings
-- Developed reporting views to support fixed asset tracking and reconciliation
-- Tools: Power BI, SQL, Data Modeling, DAX
-- Repository: [View Project](https://github.com/Cruth98/PowerBI_Visualizations)
-  
----
-
-### Power BI – Outstanding Gift Card Balances
-- Built reporting to monitor outstanding balances and audit exposure
-- Tools: Power BI, SQL, Data Modeling, DAX
-- Repository: [View Project](https://github.com/Cruth98/PowerBI_Visualizations)
-
----
-
 ### K-Means Clustering on NCAA Basketball Teams (2024)
 - Performed unsupervised clustering across 365 universities using multi-source data
 - Focused on feature engineering, model interpretation, and comparative analysis
