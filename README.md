@@ -16,13 +16,12 @@ and machine learning.
 
 ---
 
-### Power BI – Unrecorded Liability Audit
-- Designed Power BI dashboards to support audit analysis and financial visibility
-- Focused on structured data modeling and executive reporting
-- Tools: SQL, Power BI
-- Artifacts: PDF exports / screenshots
-
-_(Repository coming soon)_
+### Power BI Visualizations & Financial Reporting
+- Enterprise Power BI dashboards supporting audit analysis, asset management,
+  and gift card reconciliation
+- Emphasis on data modeling, drill-down reporting, and executive visibility
+- Tools: Power BI, SQL, Data Modeling, DAX
+- Repository: [View Project](https://github.com/Cruth98/PowerBI_Visualizations)
 
 ---
 
