@@ -43,4 +43,4 @@ and machine learning.
 - Focused on feature engineering, model interpretation, and comparative analysis
 - Tools: Python, pandas, scikit-learn
 
-_(Repository coming soon)_
+- Repository: [View Project](https://github.com/Cruth98/NCAA_MBB_DefensiveClustering2024)
