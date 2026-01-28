@@ -21,19 +21,20 @@ and machine learning.
   and gift card reconciliation
 - Emphasis on data modeling, drill-down reporting, and executive visibility
 - Tools: Power BI, SQL, Data Modeling, DAX
+- Repository: [View Project](https://github.com/Cruth98/PowerBI_Visualizations)
 
 --- 
 
 ### Power BI – Fixed Asset Listings
 - Developed reporting views to support fixed asset tracking and reconciliation
 - Tools: Power BI, SQL, Data Modeling, DAX
-
+- Repository: [View Project](https://github.com/Cruth98/PowerBI_Visualizations)
+  
 ---
 
 ### Power BI – Outstanding Gift Card Balances
 - Built reporting to monitor outstanding balances and audit exposure
 - Tools: Power BI, SQL, Data Modeling, DAX
-
 - Repository: [View Project](https://github.com/Cruth98/PowerBI_Visualizations)
 
 ---
