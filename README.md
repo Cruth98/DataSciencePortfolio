@@ -23,7 +23,20 @@ and machine learning.
 - Tools: Power BI, SQL, Data Modeling, DAX
 - Repository: [View Project](https://github.com/Cruth98/PowerBI_Visualizations)
 
---- 
+---
+
+### Basketball Analytics Portal (Interactive Web Application)
+- End-to-end analytics and decision-support web application built for a Division I
+  men’s basketball program
+- Centralizes data pipelines, analytics, and interactive dashboards for
+  non-technical stakeholders
+- Demonstrates data engineering, feature engineering, modeling, and analytics
+  delivery through a web-based interface
+- Tools: Python, Streamlit, pandas
+- Live Application: https://bellarmineanalytics.streamlit.app/
+- Repository: [View Project](https://github.com/Cruth98/BasketballAnalyticsPortal)
+
+---
 
 ### K-Means Clustering on NCAA Basketball Teams (2024)
 - Performed unsupervised clustering across 365 universities using multi-source data
