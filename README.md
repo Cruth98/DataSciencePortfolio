@@ -1,8 +1,6 @@
 # Data Science & Analytics Portfolio
 
-This repository serves as a hub for selected data science and analytics projects
-demonstrating experience in Python, SQL, Power BI, data modeling, automation,
-and machine learning.
+This repository highlights selected data science and analytics projects focused on solving real business problems through automation, reporting, and data-driven decision support. The work emphasizes practical applications of Python, SQL, and Power BI in finance, operations, and performance analysis.
 
 ---
 
