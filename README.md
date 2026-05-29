@@ -36,7 +36,7 @@ This repository highlights selected data science and analytics projects focused 
 
 ---
 
-### Power BI Visualizations & Financial Reporting
+### Power BI Reporting and Modeling
 - Enterprise Power BI dashboards supporting audit analysis, asset management,
   and gift card reconciliation
 - Emphasis on data modeling, drill-down reporting, and executive visibility
